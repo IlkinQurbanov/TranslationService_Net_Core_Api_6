@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\services\\translationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\translation.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\translation.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\translationconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\translationconsoleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +31,12 @@
       "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\services\\translatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\translation.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\translation.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\dtos\\translaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\dtos\\translaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|c:\\users\\ilkin\\desktop\\translationservice\\translationservice\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A79BAC4-1ED8-4F34-84C3-95965E5F8E72}|TranslationService\\TranslationService.csproj|solutionrelative:translationservice\\interfaces\\itranslationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,13 +50,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TranslationController.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Controllers\\TranslationController.cs",
               "RelativeDocumentMoniker": "TranslationService\\Controllers\\TranslationController.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Controllers\\TranslationController.cs",
               "RelativeToolTip": "TranslationService\\Controllers\\TranslationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:55:24.53Z",
               "IsPinned": true,
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\appsettings.json",
               "RelativeDocumentMoniker": "TranslationService\\appsettings.json",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\appsettings.json",
               "RelativeToolTip": "TranslationService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-06T21:30:43.421Z",
               "EditorCaption": ""
@@ -83,59 +83,59 @@
               "RelativeDocumentMoniker": "TranslationService\\Program.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Program.cs",
               "RelativeToolTip": "TranslationService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T21:11:34.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TranslateRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\DTOs\\TranslateRequestDto.cs",
               "RelativeDocumentMoniker": "TranslationService\\DTOs\\TranslateRequestDto.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\DTOs\\TranslateRequestDto.cs",
               "RelativeToolTip": "TranslationService\\DTOs\\TranslateRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:59:42.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TranslatorService.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Services\\TranslatorService.cs",
               "RelativeDocumentMoniker": "TranslationService\\Services\\TranslatorService.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Services\\TranslatorService.cs",
               "RelativeToolTip": "TranslationService\\Services\\TranslatorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:54:36.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Translation.proto",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Translation.proto",
               "RelativeDocumentMoniker": "TranslationService\\Translation.proto",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Translation.proto",
               "RelativeToolTip": "TranslationService\\Translation.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2024-11-06T20:53:28.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TranslationConsoleApp.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\TranslationConsoleApp.cs",
               "RelativeDocumentMoniker": "TranslationService\\TranslationConsoleApp.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\TranslationConsoleApp.cs",
               "RelativeToolTip": "TranslationService\\TranslationConsoleApp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:52:53.939Z",
               "EditorCaption": ""
@@ -148,20 +148,20 @@
               "RelativeDocumentMoniker": "TranslationService\\Services\\TranslationServiceImpl.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Services\\TranslationServiceImpl.cs",
               "RelativeToolTip": "TranslationService\\Services\\TranslationServiceImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:50:26.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ITranslationService.cs",
               "DocumentMoniker": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Interfaces\\ITranslationService.cs",
               "RelativeDocumentMoniker": "TranslationService\\Interfaces\\ITranslationService.cs",
               "ToolTip": "C:\\Users\\Ilkin\\Desktop\\TranslationService\\TranslationService\\Interfaces\\ITranslationService.cs",
               "RelativeToolTip": "TranslationService\\Interfaces\\ITranslationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:49:41.633Z",
               "EditorCaption": ""

@@ -1,5 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("RedisConnection");
+});
 // Register services
 builder.Services.AddMemoryCache();
 builder.Services.AddHttpClient(); 
